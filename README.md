@@ -1,4 +1,4 @@
-## Project 1: KVStore using Log-structured Merge Tree
+## Project: KVStore using Log-structured Merge Tree
 
 
 The handout files include two main parts:
